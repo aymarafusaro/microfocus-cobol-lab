@@ -5,3 +5,6 @@ lessons/04-copybooks/copybook-demo
 lessons/05-build-run/build-demo
 lessons/06-debugging/debug-demo
 lessons/06-debugging/debug-demo-debug
+
+lessons/07-testing/test-demo
+lessons/07-testing/data/output/
